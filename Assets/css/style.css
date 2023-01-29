@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Kept class "header" but changed tag from div to header */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Grabbing all section tags inside of .header */
 .header section {
     padding-top: 15px;
     margin-right: 20px;
