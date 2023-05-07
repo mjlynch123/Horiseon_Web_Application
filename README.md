@@ -2,4 +2,4 @@
 ## Description
 This website has been updated to hold **semantic HTML** to increase accessibilty for all users especially the ones that need it for screen readers.
 
-[Deployed Website](https://mjlynch123.github.io/week1-challenge/ "Home Page")
+[Deployed Website](https://mjlynch123.github.io/Horiseon_Web_Application/)
